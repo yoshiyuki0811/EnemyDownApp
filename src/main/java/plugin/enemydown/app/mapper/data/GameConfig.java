@@ -9,7 +9,7 @@ import lombok.Setter;
 @Setter
 public class GameConfig {
   private int id;
-  private int game_time;
+  private int gameTime;
   private String difficulty;
 
 }
